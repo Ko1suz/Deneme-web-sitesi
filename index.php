@@ -196,7 +196,7 @@
                     <a href="#"><i class="fab fa-google-plus-g social"></i></a>
                     <a href="#s"><i class="fab fa-twitter social"></i></a>
                 </div>
-
+    
                 <a href="#menu"><i class="fas fa-angle-up" id="up"></i></a>
             </footer>
 
